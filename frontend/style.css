@@ -1,0 +1,29 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: #FFEEDF;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.circle{
+    background-color: #1C5A4E;
+    height: 240px;
+    width: 240px;
+    border-style: none;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    color: #FFEEDF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 200px;
+    font-weight: 300;
+}
+
